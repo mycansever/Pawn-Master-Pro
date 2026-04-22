@@ -1,5 +1,3 @@
-Tabii kanka, modunun açıklamasını en güncel, tam ve profesyonel haliyle aşağıya ekledim. Bunu kopyalayıp doğrudan kullanabilirsin.
-
 👑 Pawn Master Pro
 Pawn Master Pro is a powerful debugging and utility tool that allows you to manage your colonists' needs and health with a single click, eliminating tedious micro-management tasks. This mod ensures you have complete control over your colony's well-being.
 
