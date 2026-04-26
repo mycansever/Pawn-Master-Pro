@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Settings>
+  <cleanMentalBreak>True</cleanMentalBreak>
+  
+  <healDiseases>True</healDiseases>
+  <healInjuries>True</healInjuries>
+  <healMissingParts>False</healMissingParts>
+  
+  <enableLactation>False</enableLactation>
+</Settings>

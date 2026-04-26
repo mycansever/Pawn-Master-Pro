@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <LanguageData>
-  <PawnMaster_Maximize>Maximize</PawnMaster_Maximize>
-  <PawnMaster_AllMaximize>All Maximize</PawnMaster_AllMaximize>
-  <PawnMaster_Message>Needs maximized!</PawnMaster_Message>
+  <PawnMaster_Maximize>Pawn Protect</PawnMaster_Maximize>
+  <PawnMaster_AllMaximize>Protect All</PawnMaster_AllMaximize>
+  <PawnMaster_Message>Pawn has been optimized.</PawnMaster_Message>
 </LanguageData>
